@@ -1,30 +1,4 @@
----
-title: Introduction
-section_title: Introduction
-type: introduction
-layout: docs
-order: 1
-parent_section: docs
-section_order: 1
-installation: true
-examples:
-  - title: Hello, World!
-    src: https://glitch.com/edit/#!/aframe?path=index.html
----
 
-[three.js]: https://threejs.org
-
-## Getting Started
-
-[glitch]: http://glitch.com/~aframe
-
-A-Frame can be developed from a plain HTML file without having to install
-anything. A great way to try out A-Frame is to **[remix the starter example on
-Glitch][glitch]**, an online code editor that instantly hosts and deploys for
-free. Alternatively, create an `.html` file and include A-Frame in the
-`<head>`:
-
-```html
 <html>
   <head>
     <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
